@@ -1,4 +1,4 @@
-# Collection of usefull docker commands.
+# Collection of useful docker commands.
 
 ## Enter a stopped Docker container
 
