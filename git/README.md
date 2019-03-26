@@ -13,3 +13,16 @@ git reset --soft HEAD~1
 git reset --hard HEAD~1
 ````
 * with --hard the undone revisions are discarded.
+
+## Compare the last two commits with each other
+```
+git log -u -1
+```
+
+## Compare commit to its immediate ancestor
+
+[source](https://stackoverflow.com/a/1195209)
+
+```
+ git log -u -1 commit
+```
