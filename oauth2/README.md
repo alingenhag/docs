@@ -4,6 +4,7 @@
 
 * [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
 * [OAuth 2.0 \<debugger/\>](https://oauthdebugger.com)
+* [JSON Web Tokens](https://jwt.io/)
 
 ## Useful links (Spring 5)
 * [OAuth2 Resource Server](https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#webflux-oauth2-resource-server)
