@@ -26,3 +26,7 @@ git log -u -1
 ```
  git log -u -1 commit
 ```
+
+# Useful links
+
+* [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
